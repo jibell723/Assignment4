@@ -1,0 +1,20 @@
+.container{
+    width:30%;
+    margin: 2px;
+}
+
+#login{
+    margin: 2px;
+}
+
+#login div{
+    clear: both;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+#login input[type=submit]{
+    width: 100px;
+    padding: 3px;
+}
+

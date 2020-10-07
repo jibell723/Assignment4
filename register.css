@@ -1,0 +1,19 @@
+.container{
+    width:30%;
+    margin-top: 2px;
+}
+
+#register{
+    margin-top: 2px;
+}
+
+#register div{
+    clear: both;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+#register input[type=submit]{
+    width: 100px;
+    padding: 3px;
+}
